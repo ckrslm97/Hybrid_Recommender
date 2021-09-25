@@ -12,9 +12,14 @@
     
 # DEĞİŞKENLER
 
-  movieId–Eşsiz film numarası. (UniqueID)
-  title –Film adı
-  userid –Eşsiz kullanıcı numarası. (UniqueID)
-  movieId–Eşsiz film numarası. (UniqueID)
-  rating –Kullanıcı tarafından filme verilen puan
-  timestamp –Değerlendirme tarihi
+  movieId – Eşsiz film numarası. (UniqueID)
+  
+  title – Film adı
+  
+  userid – Eşsiz kullanıcı numarası. (UniqueID)
+  
+  movieId – Eşsiz film numarası. (UniqueID)
+  
+  rating – Kullanıcı tarafından filme verilen puan
+  
+  timestamp – Değerlendirme tarihi
